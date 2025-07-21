@@ -150,6 +150,7 @@ output:
 **This project successfully demonstrates deploying a Node.js application on AWS EC2 with PM2 for process management and Nginx as a reverse proxy, ensuring reliable, secure, and scalable access to the application over the web.**
 
 ---
-
-
-
+## summary
+Create and configure your Node.js app with a proper package.json and start script.
+Choose a deployment platform like EC2, Heroku, or Render.
+Deploy the app by installing dependencies and starting the server with npm start or using a process manager like PM2.
